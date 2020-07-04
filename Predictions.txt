@@ -1,0 +1,9 @@
+---------- 
+ Prediction : 
+     amanite : 0.00%
+     cèpe : 0.00%
+     girolles : 100.00%
+---------- 
+RESULTAT : girolles : 100.00%
+temps prediction : 0.47secs
+---------- 
